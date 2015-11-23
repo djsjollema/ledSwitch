@@ -1,0 +1,8 @@
+{
+	"name":"training_socket",
+	"dependencies":{
+		"express":"*",
+		"socket.io":"*",
+		"ejs": "*"
+	}
+}
